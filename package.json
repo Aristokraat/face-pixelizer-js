@@ -1,0 +1,14 @@
+{
+  "name": "pixelated-face",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pixelated-face.js",
+  "author": "",
+  "license": "ISC",
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "dependencies": {
+    "parcel": "^2.0.0-alpha.2.1"
+  }
+}
